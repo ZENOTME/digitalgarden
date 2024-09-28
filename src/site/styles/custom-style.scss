@@ -1,13 +1,20 @@
 body {
-    /***
+
+  /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  //  background-color: white;
+  //  .content {
+  //   font-size: 14px;
+  //  }
+  --font-default: 'Inter', 'Aevnir Next', sans-serif;
+}
+.markdown-rendered h1,  .HyperMD-header-1,
+.markdown-rendered h2,  .HyperMD-header-2,
+.markdown-rendered h3,  .HyperMD-header-3,
+.markdown-rendered h4,  .HyperMD-header-4,
+.markdown-rendered h5,  .HyperMD-header-5,
+.markdown-rendered h6, .HyperMD-header-6 {
+   margin-top: 0.8em;
 }
