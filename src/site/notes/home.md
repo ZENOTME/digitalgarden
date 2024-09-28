@@ -4,8 +4,8 @@
 
 👋 Hi, I’m ZENOTME, a master’s student in Software Engineering at SJTU.
 
-🎮 My interests include databases, distributed systems, data infrastructure, and operating systems.  
+🎮 My interests include databases, distributed systems, data infrastructure, and operating systems.
 
-💼 I have contributed to various related projects, including a distributed database (_TDSQL_), a streaming database (_RisingWave_), and an open table format (_Iceberg_). You can explore what I’m currently working on through [GitHub].
+💼 I have contributed to various related projects, including a distributed database (_TDSQL_), a streaming database (_RisingWave_), and an open table format (_Iceberg_). You can explore what I’m currently working on through my [GitHub](https://github.com/ZENOTME).
 
 📧 Feel free to reach me at: 810918843@qq.com
